@@ -1,0 +1,1 @@
+export default ({channel="KBS"}) => `${channel} show now`;
